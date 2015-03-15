@@ -1,4 +1,4 @@
-# チーム運営の課題リスト
+# チームのルール
 ## 状況
 ## 問題
 ## フォース
@@ -6,4 +6,4 @@
 ## アクション
 ## 結果
 ## アジャイルプラクティス
-- Scrum: Impediment List
+- Scrum: Working Agreement

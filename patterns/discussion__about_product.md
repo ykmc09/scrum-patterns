@@ -6,4 +6,4 @@
 ## アクション
 ## 結果
 ## アジャイルプラクティス
-- Scrum: Product Backlog Refinement
+- Scrum: Product Backlog Refinement, Sprint Review

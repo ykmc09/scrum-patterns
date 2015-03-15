@@ -1,4 +1,6 @@
 # *Don't DO* Agile, *BE* Agile
+![](https://www.dropbox.com/s/hg1g6aoqgxfjkz9/dont_do_agile%2C_be_agile.jpg?dl=1)
+
 ## 状況
 - プロダクト開発を開始しようとしている
 

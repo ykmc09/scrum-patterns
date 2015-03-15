@@ -1,4 +1,7 @@
 # プロダクトへもっとも情熱をもつ人
+![](https://www.dropbox.com/s/jo6wntgyf7zvivn/product_owner.jpg?dl=1)
+[by Feans](https://www.flickr.com/photos/endogamia/5270169985)
+
 ## 状況
 - プロダクト開発を開始しようとしている
 

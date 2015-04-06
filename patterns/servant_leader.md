@@ -1,5 +1,5 @@
 # サーバント・リーダ
-![](https://www.dropbox.com/s/3lfmveyix7kwttc/servant_leader.jpg?dl=1)
+![](https://www.dropbox.com/s/kcachyjcnu7nlub/servant_leader.jpg?dl=1)
 [by Rene Jakobson](https://www.flickr.com/photos/renej/3274046686/in/photolist-5Zjm1N-FvQ5Z-tjfde-9Qzeuz-g3dfti-fMoSMn-XnJN5-8Bf5qt-4tFs2D-diCJJv-4UxyGi-4wpnVh-pFvku9-cas82m-ekvh9t-8kAPF-2AS8W2-dyxkQH-5tgUx3-cNzFY5-fT7rEc-6SJ6Cn-fFPsM-dUMCqd-3oV7cr-csReXA-7BvEnr-572E8M-9MCe2y-k7CDRL-ipKWrQ-EJmCR-7BzqYS-fAW7o5-dkZBP1-gK4TV-cn2DBE-akqLrv-zyYds-48UUZb-86zmPY-d9QVDN-hWqpth-aC9GbE-e3f7Ep-bXgbau-9jaSGo-a84mny-8YAb75-4t214B)
 
 ## 状況

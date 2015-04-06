@@ -1,5 +1,5 @@
 # 客観的で中立的な目線と指摘
-![](https://www.dropbox.com/s/9xuzd78w6czs73j/objectively_and_neutrality.jpg?dl=1)
+![](https://www.dropbox.com/s/6a0rcwry1eamuh1/objectively_and_neutrality.jpg?dl=1)
 [by Scott*](https://www.flickr.com/photos/jsmoorman/2298671281/in/photolist-4v8hTt-aRrt1X-dveXaK-a5QJN-dVTyF2-ajzocM-avnw7k-4x4hEu-9y3EeR-5KDZuu-jb4gtt-5Y1viS-aHfZSD-jovdNA-4vcoWW-aHg2cT-asiq1f-f8VT8P-adiAad-cnpufm-8MRWHh-a5QJx-7ZZR5f-fjDUL5-qbAnc6-puBac4-65cu3q-aWfqj8-854mee-8e3yE-aHg1AT-aHg11T-6bU53u-zJGrk-6bU53A-nKXkuj-56ZkTm-JTVEo-bUdcLq-4rDYSf-8Un8Ek-Dj9WL-8UFvDg-8UFuiZ-gfmZsK-4dWHcy-5TNsBV-9yJPsh-5vvvfB-b4SmkM)
 
 ## 状況

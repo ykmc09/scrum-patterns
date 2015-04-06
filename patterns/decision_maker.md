@@ -1,5 +1,5 @@
 # 統一された意思決定
-![](https://www.dropbox.com/s/ghit6wdq50fbze0/decision_maker.jpg?dl=1)
+![](https://www.dropbox.com/s/p7s0xqow848lxgy/decision_maker.jpg?dl=1)
 [by Lori Greig](https://www.flickr.com/photos/lori_greig/5331407245/in/photolist-5cGHia-987RCz-M7ZXG-cYBgzj-aQUzkH-9nCktJ-a4b7bd-9w3Y6-8884cJ-CQPPv-5doH6U-fii48V-4pmRp2-ijuod3-cAnMDj-5do3yC-ityb7M-fqEKy6-nMsEUE-9b3Jbn-nvFrjq-9NFVNX-9NDvLH-yotTZ-eEv8Y-9NEtYQ-9NGKrb-9M2DZZ-9NJybd-9NAsCc-9NF1UU-cidfdU-cidepj-cidezY-cidesE-cidfa9-9NGabs-9NEwpU-9NH11D-9NGBho-9M2DUT-9NGYu8-9NJKMw-drgDqs-7toy7-cideFm-cidf7w-6DjMwL-cidf3q-JdD9b)
 
 ## 状況

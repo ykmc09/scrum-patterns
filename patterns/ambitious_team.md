@@ -1,5 +1,5 @@
 # 成長意欲の高いチーム
-![](https://www.dropbox.com/s/dcn5nrgwo4xtxh6/ambitious_team.jpg?dl=1)
+![](https://www.dropbox.com/s/1swvapq67qcv9mb/ambitious_team.jpg?dl=1)
 [by Dana Orlosky](https://www.flickr.com/photos/dorlosky/5478015887/in/photolist-9m5ggM-eNkhKh-Pr63o-fFsUFM-dMT9jX-dMTfe8-eX4GNY-dnqJie-eWRyJv-dnqVpQ-dwrARu-dnqRsm-659YRR-k5SY5y-dnqEMy-dnr4GN-cecGcC-51FZfJ-dnqRCr-dwm7ze-dwmadr-dwrGpC-dwrLPS-dugVwW-eWTEDV-eX5DoN-eX4477-eX3Zz5-dMZ3B3-dMTyBv-4wgsk1-eX5teL-deVyzH-eN8Spz-AsWv-84B1S7-o9Vqvx-96DyXX-dMYKCL-6RnhZ2-eX5puN-eWTgyT-cbc1qW-84B21h-beKaKz-ciEqw1-gbLTRx-6SGUw3-cbWVsy-6LtnPX)
 
 ## 状況

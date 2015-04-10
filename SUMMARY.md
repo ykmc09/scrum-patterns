@@ -1,7 +1,7 @@
 # Summary
 
 * [はじめに](README.md)
-* [Scrum をひもとくパタン](patterns/README.md)
+* [スクラムをひもとくパタン](patterns/README.md)
    * [Don't DO Agile, BE Agile](patterns/dont_do_agile,_be_agile.md)
    * [プロダクトへもっとも情熱をもつ人](patterns/product_owner.md)
    * [ビジョナリなプロダクト](patterns/visionary_product.md)
